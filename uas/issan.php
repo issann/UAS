@@ -24,7 +24,7 @@
 				<td>URL Repostory</td>
 				<td> :
 				<a href="https://github.com/issan/UAS">
-				https://github.com/
+				https://github.com/issan/UAS
 				</a>
 				</td>
 			</tr>
