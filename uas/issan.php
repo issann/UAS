@@ -23,7 +23,7 @@
 			<tr>
 				<td>URL Repostory</td>
 				<td> :
-				<a href="https://github.com/roni46/Tugas-UAS">
+				<a href="https://github.com/issan/UAS">
 				https://github.com/
 				</a>
 				</td>
